@@ -8,8 +8,6 @@ All the art is autoral and maded by me.
 
 Itch.io game page: https://peguinm.itch.io/lifeslit
 
-<hr>
-
 <h1>License:</h1>
 
 The project is under the CC BY-NC-ND license.
