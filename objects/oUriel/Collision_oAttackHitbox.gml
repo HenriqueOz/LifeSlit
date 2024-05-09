@@ -1,0 +1,1 @@
+ takeDamage(oPlayer.attackDmg);

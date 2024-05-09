@@ -1,0 +1,27 @@
+{
+  "FolderOrderSettings": [
+    {"name":"End","order":1,"path":"folders/Objects/Cutscenes/End.yy",},
+    {"name":"cutscene","order":2,"path":"folders/Sounds/SFX/cutscene.yy",},
+    {"name":"Uriel","order":1,"path":"folders/Sounds/SFX/Uriel.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"snCastSpear","order":3,"path":"sounds/snCastSpear/snCastSpear.yy",},
+    {"name":"snMenuMusic","order":1,"path":"sounds/snMenuMusic/snMenuMusic.yy",},
+    {"name":"oAlly4","order":2,"path":"objects/oAlly4/oAlly4.yy",},
+    {"name":"snPowerImpact","order":1,"path":"sounds/snPowerImpact/snPowerImpact.yy",},
+    {"name":"snSpearImpact","order":6,"path":"sounds/snSpearImpact/snSpearImpact.yy",},
+    {"name":"oAlly3","order":1,"path":"objects/oAlly3/oAlly3.yy",},
+    {"name":"snVIrouGente","order":1,"path":"sounds/snVIrouGente/snVIrouGente.yy",},
+    {"name":"oAlly5","order":3,"path":"objects/oAlly5/oAlly5.yy",},
+    {"name":"snWings","order":2,"path":"sounds/snWings/snWings.yy",},
+    {"name":"snHeal","order":2,"path":"sounds/snHeal/snHeal.yy",},
+    {"name":"snGatoSubindo","order":2,"path":"sounds/snGatoSubindo/snGatoSubindo.yy",},
+    {"name":"snLaser","order":5,"path":"sounds/snLaser/snLaser.yy",},
+    {"name":"sEnd","order":1,"path":"sprites/sEnd/sEnd.yy",},
+    {"name":"snLoop","order":3,"path":"sounds/snLoop/snLoop.yy",},
+    {"name":"snRock","order":3,"path":"sounds/snRock/snRock.yy",},
+    {"name":"snIntro","order":2,"path":"sounds/snIntro/snIntro.yy",},
+    {"name":"snCastLaser","order":1,"path":"sounds/snCastLaser/snCastLaser.yy",},
+    {"name":"snSlash","order":4,"path":"sounds/snSlash/snSlash.yy",},
+  ],
+}

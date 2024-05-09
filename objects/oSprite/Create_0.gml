@@ -1,0 +1,1 @@
+onDestroy = 0;

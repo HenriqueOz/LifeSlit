@@ -1,0 +1,1 @@
+if(surface_exists(popupSurface)) surface_free(popupSurface);

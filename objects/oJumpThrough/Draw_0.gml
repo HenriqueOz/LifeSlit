@@ -1,0 +1,1 @@
+draw_sprite_ext(sJumpTrought, 0, x, y, image_xscale, image_yscale, 0, -1, 1);

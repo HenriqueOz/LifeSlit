@@ -1,0 +1,1 @@
+oMusic.bossState = 0;
