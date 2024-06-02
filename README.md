@@ -5,6 +5,7 @@ Lifeslit is a metroidvania game developed as a Final paper for an IT course conc
 The game was made using GameMaker Studio 2.
 
 This repository stores the project's source code for study purposes, if you want the executable file, open the game page by the itch.io link below.
+
 Itch.io game page: https://peguinm.itch.io/lifeslit
 
 All the art is autoral and maded by me.
