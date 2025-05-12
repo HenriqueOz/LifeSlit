@@ -6,6 +6,12 @@
 
 - **[Itch.io Game Page](https://henriqueoz.itch.io/lifeslit)**
 
+## Technologies
+
+- GamemakerStudio 2
+- Aseprite
+- Tiled
+
 ## Extra
 
 - The game art is original and made by me
